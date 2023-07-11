@@ -13,7 +13,7 @@ Task Manager project is a Javasript based sample application to practice javascr
   
   OR
   
-  You can directly visit to https://quiz-sl.netlify.app/
+  You can directly visit to https://taskmanager-sl.netlify.app/
     
   // ====================================================================================
 ======= //
